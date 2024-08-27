@@ -112,7 +112,17 @@
           "pages": ["enterprise/plans", "enterprise/onprem"]
         },
         "support",
-        "status"
+        "status",
+        {
+          "group": "How to Clone Documentation",
+          "pages": [
+            {
+              "title": "How to Clone Documentation",
+              "sidebarTitle": "Clone Documentation",
+              "description": "Instructions on how to clone this documentation for offline editing"
+            }
+          ]
+        }
       ]
     },
     {
